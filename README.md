@@ -1,3 +1,2 @@
-# Mi-primer-proyecto
-Arcade 2D HTML + CSS + javascript 
+
 https://chatgpt.com/s/69d9e06d2c508191ab0c2fb24eea97bc
